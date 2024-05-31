@@ -107,11 +107,11 @@ nav a:hover{
 footer{
     text-align: center;    
     background: url(imagenes/bg.jfif);
-    padding: 40px;
+    padding: 10px;
 }
 
 .copyright {
-    color: #FFFFFF;
+    color: #000000;
     font-size: 13px;
     margin: 20px;
 }
@@ -281,7 +281,7 @@ td,th {
         
     }
 
-    @media screen and (max-width:480px){
+    @media screen and (max-width:800px){
         h1{
             text-align: center;            
         }
